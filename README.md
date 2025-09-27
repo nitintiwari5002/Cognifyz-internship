@@ -60,7 +60,23 @@ Visualize how financial goals align with investment avenues
 
 ## 🖥️Visualizations
 
+---
+<img width="1353" height="750" alt="Image" src="https://github.com/user-attachments/assets/988b6af0-6759-4505-86d4-19369d5fbda1" />
 
+---
+<img width="1350" height="754" alt="Image" src="https://github.com/user-attachments/assets/8c11c6ce-98c3-4aee-98dc-3220875def03" />
+
+---
+<img width="1348" height="749" alt="Image" src="https://github.com/user-attachments/assets/752a284f-87f6-4eee-98e3-f1132adbf996" />
+
+---
+<img width="1348" height="753" alt="Image" src="https://github.com/user-attachments/assets/320844c0-7449-4f7d-82b9-f1b4c93f0b28" />
+
+---
+<img width="1345" height="753" alt="Image" src="https://github.com/user-attachments/assets/00ed763b-2fd2-444b-aebf-7a5c3dfa8672" />
+
+---
+<img width="1345" height="752" alt="Image" src="https://github.com/user-attachments/assets/1b71216b-cff1-4c84-aab2-5f91fdffa5a1" />
 
 ## 🛠️ Tools & Comapany
 
