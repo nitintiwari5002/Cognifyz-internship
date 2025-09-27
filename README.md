@@ -46,7 +46,7 @@ Key goals included:
 
 - Task 7: Dashboard Development (Each task included cleaning, analysis, visualization, and insights using Power BI).
 
-## 📊 Final Dashboard
+## 📊 Final Dashboard along 
 
 The Power BI Dashboard consolidates all insights, enabling users to:
 
@@ -56,7 +56,11 @@ Understand motivations behind investment behavior
 
 Visualize how financial goals align with investment avenues
 
-🔗 Dashboard File: Cognifyz.pbix (included in this repo)
+🔗 Dashboard File: Cognifyz.pbix (included in the code section)
+
+## 🖥️Visualizations
+
+
 
 ## 🛠️ Tools & Comapany
 
@@ -85,3 +89,17 @@ A big thank you to Cognifyz Technologies for the mentorship, guidance, and oppor
 - Open the Power BI file (Cognifyz.pbix) in Power BI Desktop
 
 - Explore the interactive dashboard
+
+## 🤝 Contributing
+Contributions are welcome! 🎉  
+To contribute:  
+1. **Fork** the repository  
+2. **Create a new branch** (`feature-new`)  
+3. **Commit your changes**  
+4. **Push to the branch**  
+5. Open a **Pull Request** 🚀  
+
+## 👨‍💻 Author
+**Nitin Tiwari**  
+- GitHub: https://github.com/nitintiwari5002
+- LinkedIn: https://linkedin.com/in/nitin-krishnakumar-tiwari-685557376 
