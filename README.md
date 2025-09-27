@@ -58,7 +58,13 @@ Visualize how financial goals align with investment avenues
 
 🔗 Dashboard File: Cognifyz.pbix (included in this repo)
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Comapany
+
+- ![Made with Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-yellow?logo=power-bi)
+
+- ![ETL](https://img.shields.io/badge/ETL-Data%20Transformation-orange?style=for-the-badge&logo=processwire&logoColor=white)
+
+- ![Cognifyz](https://img.shields.io/badge/Cognifyz-Technologies-blueviolet?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## 📌 Key Learnings
 
