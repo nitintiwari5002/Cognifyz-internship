@@ -74,7 +74,7 @@ A big thank you to Cognifyz Technologies for the mentorship, guidance, and oppor
 
 ## 🚀 How to Use
 
-- Clone this repository via the command "git clone https://github.com/your-username/cognifyz-internship.git"
+- Clone this repository via the command "git clone https://github.com/nitintiwari5002/cognifyz-internship.git"
 
 - Open the Power BI file (Cognifyz.pbix) in Power BI Desktop
 
